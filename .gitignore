@@ -1,0 +1,8 @@
+*.txt
+*.hi
+*.exe
+*.o
+*.json
+*/.vscode
+*/*old*.hs
+*/*test*.hs
